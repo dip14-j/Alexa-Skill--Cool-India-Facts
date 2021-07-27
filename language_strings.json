@@ -1,0 +1,18 @@
+{
+	"en": {
+		"SKILL_NAME": "Cool India Facts",
+		"GET_FACT_MESSAGE": "Here's your fact: {}",
+		"HELP_MESSAGE": "You can say tell me a Cool India Facts, or, you can say exit... What can I help you with?",
+		"HELP_REPROMPT": "What can I help you with?",
+		"FALLBACK_MESSAGE": "The Cool India Facts skill can't help you with that.  It can help you discover facts about India if you say tell me a Cool India Facts. What can I help you with?",
+		"FALLBACK_REPROMPT": "What can I help you with?",
+		"ERROR_MESSAGE": "Sorry, an error occurred.",
+		"STOP_MESSAGE": "Goodbye!",
+		"FACTS": [
+			"India has A floating post office.",
+			"India has The highest cricket ground in the world.",
+			"The Indian national Kabaddi team has won all World Cups.",
+			"Water on the moon was discovered by India.",
+			"Science day in Switzerland is dedicated to Ex-Indian President, APJ Abdul Kalam.",
+			"India has The first country to consume sugar"
+		]
